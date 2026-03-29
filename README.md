@@ -4,3 +4,7 @@ This project implements a high-efficiency AC-DC-AC power conversion system that 
 <p align="center">
   <img width="1432" height="557" alt="Image" src="https://github.com/user-attachments/assets/4e9253e5-d0fd-44bb-8dcc-ef430dea6ebd" />
 </p>
+
+<p align="center">
+<img width="1476" height="499" alt="Image" src="https://github.com/user-attachments/assets/318ede60-6a7c-4c7e-81e4-de75e390c24e" />
+</p>
